@@ -1,0 +1,4 @@
+2019-12-09 13:49:37.572 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'contentsMapper' and 'com.byblog.system.dao.ContentsMapper' mapperInterface. Bean already defined with the same name!
+2019-12-09 13:49:37.573 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'tokenMapper' and 'com.byblog.system.dao.TokenMapper' mapperInterface. Bean already defined with the same name!
+2019-12-09 13:49:37.574 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - Skipping MapperFactoryBean with name 'userMapper' and 'com.byblog.system.dao.UserMapper' mapperInterface. Bean already defined with the same name!
+2019-12-09 13:49:37.574 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.byblog.system.dao]' package. Please check your configuration.

@@ -1,0 +1,719 @@
+2019-08-22 11:24:43.703 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26494 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:24:43.706 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:24:44.382 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:25:21.842 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26507 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:25:21.845 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:25:22.423 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:26:20.173 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26525 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:26:20.175 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:26:20.806 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:27:06.628 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26539 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:27:06.631 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:27:07.565 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d964a7c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:27:07.753 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:27:07.763 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:27:07.770 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:27:07.771 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:27:07.844 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:27:07.845 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1131 ms
+2019-08-22 11:27:08.442 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-08-22 11:27:08.451 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:29:37.650 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26597 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:29:37.653 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:29:38.600 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$95b0b441] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:29:38.795 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:29:38.806 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:29:38.814 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:29:38.814 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:29:38.888 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:29:38.888 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1152 ms
+2019-08-22 11:29:39.454 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-08-22 11:29:39.464 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:35:44.747 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26696 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:35:44.750 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:35:45.682 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$92bf1a95] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:35:45.867 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:35:45.878 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:35:45.886 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:35:45.886 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:35:45.957 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:35:45.958 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1121 ms
+2019-08-22 11:35:46.514 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-08-22 11:35:46.524 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:37:41.810 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 26729 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:37:41.813 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:37:43.046 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5cffb82c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:37:43.258 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:37:43.269 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:37:43.278 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:37:43.278 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:37:43.354 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:37:43.355 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1457 ms
+2019-08-22 11:37:44.035 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-08-22 11:37:44.056 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:55:39.869 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 27056 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:55:39.871 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:55:40.770 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9e28dfe5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:55:40.956 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:55:40.967 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:55:40.974 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:55:40.974 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:55:41.045 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:55:41.045 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1102 ms
+2019-08-22 11:55:41.577 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-08-22 11:55:41.586 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 11:56:17.276 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 27067 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:56:17.278 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:56:18.169 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d69e375a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:56:18.349 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:56:18.360 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:56:18.366 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:56:18.367 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:56:18.438 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:56:18.439 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1115 ms
+2019-08-22 11:56:19.054 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 11:56:19.321 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 11:56:19.334 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 11:56:19.359 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 11:56:19.473 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:56:19.503 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 11:56:19.506 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.854 seconds (JVM running for 3.386)
+2019-08-22 11:56:34.067 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 11:56:34.067 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 11:56:34.073 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 11:57:26.733 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 27101 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 11:57:26.736 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 11:57:27.649 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cb3f6d22] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 11:57:27.835 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 11:57:27.845 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:57:27.852 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 11:57:27.853 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 11:57:27.924 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 11:57:27.925 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1112 ms
+2019-08-22 11:57:28.532 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 11:57:28.803 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 11:57:28.816 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 11:57:28.841 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 11:57:28.946 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 11:57:28.977 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 11:57:28.981 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.689 seconds (JVM running for 3.168)
+2019-08-22 11:57:35.531 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 11:57:35.541 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 11:57:35.547 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 11:57:47.265 [http-nio-8088-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 11:57:47.379 [http-nio-8088-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 12:13:56.662 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 12:13:56.670 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 13:01:07.267 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 28001 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 13:01:07.269 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 13:01:08.086 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5e1ea467] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 13:01:08.269 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 13:01:08.280 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 13:01:08.287 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 13:01:08.287 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 13:01:08.360 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 13:01:08.360 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1022 ms
+2019-08-22 13:01:08.939 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 13:01:09.202 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 13:01:09.216 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 13:01:09.240 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 13:01:09.344 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 13:01:09.375 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 13:01:09.379 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.6 seconds (JVM running for 3.287)
+2019-08-22 13:01:12.729 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 13:01:12.740 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 13:01:12.747 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 13:01:12.819 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 13:01:12.910 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 13:29:14.161 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 13:29:14.169 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 13:29:35.977 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 28409 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 13:29:35.979 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 13:29:36.789 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1d11382b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 13:29:36.976 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 13:29:36.987 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 13:29:36.994 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 13:29:36.995 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 13:29:37.066 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 13:29:37.066 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1025 ms
+2019-08-22 13:29:37.646 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 13:29:37.913 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 13:29:37.926 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 13:29:37.952 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 13:29:38.056 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 13:29:38.087 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 13:29:38.090 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.573 seconds (JVM running for 3.291)
+2019-08-22 13:29:43.692 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 13:29:43.693 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 13:29:43.719 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-08-22 13:29:43.798 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 13:29:43.889 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 13:34:14.295 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 13:34:14.304 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 14:01:34.958 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 29010 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 14:01:34.961 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 14:01:35.915 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$565acfcf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 14:01:36.105 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 14:01:36.116 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:01:36.124 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 14:01:36.125 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 14:01:36.197 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 14:01:36.197 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1138 ms
+2019-08-22 14:01:36.774 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 14:01:37.043 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 14:01:37.057 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 14:01:37.081 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 14:01:37.182 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:01:37.213 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 14:01:37.216 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.793 seconds (JVM running for 3.561)
+2019-08-22 14:01:45.967 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 14:01:45.977 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 14:01:45.984 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 14:01:46.045 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 14:01:46.134 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 14:08:49.950 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 14:08:49.959 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 14:08:54.365 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 29123 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 14:08:54.368 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 14:08:55.314 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1ab71ce3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 14:08:55.522 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 14:08:55.533 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:08:55.540 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 14:08:55.541 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 14:08:55.617 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 14:08:55.617 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1163 ms
+2019-08-22 14:08:56.219 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 14:08:56.504 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 14:08:56.518 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 14:08:56.543 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 14:08:56.645 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:08:56.676 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 14:08:56.679 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.763 seconds (JVM running for 3.327)
+2019-08-22 14:09:04.611 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 14:09:04.614 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 14:09:04.621 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 14:09:04.686 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 14:09:04.785 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 14:14:02.759 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 14:14:02.767 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 14:14:06.275 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 29203 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 14:14:06.277 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 14:14:07.139 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6893ddac] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 14:14:07.323 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 14:14:07.333 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:14:07.340 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 14:14:07.340 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 14:14:07.410 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 14:14:07.410 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1088 ms
+2019-08-22 14:14:07.990 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 14:14:08.253 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 14:14:08.266 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 14:14:08.291 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 14:14:08.389 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:14:08.426 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 14:14:08.429 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.738 seconds (JVM running for 3.293)
+2019-08-22 14:14:13.499 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 14:14:13.510 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 14:14:13.518 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-08-22 14:14:13.580 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 14:14:13.669 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 14:18:17.996 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 14:18:18.005 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 14:18:23.009 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 29272 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 14:18:23.012 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 14:18:23.928 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$30992046] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 14:18:24.121 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 14:18:24.132 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:18:24.141 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 14:18:24.141 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 14:18:24.212 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 14:18:24.213 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1124 ms
+2019-08-22 14:18:24.807 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 14:18:25.052 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 14:18:25.065 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 14:18:25.089 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 14:18:25.193 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:18:25.222 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 14:18:25.226 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.659 seconds (JVM running for 3.134)
+2019-08-22 14:18:30.386 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 14:18:30.393 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 14:18:30.401 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-08-22 14:18:30.463 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 14:18:30.548 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 14:20:23.603 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 14:20:23.611 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 14:20:26.805 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 29309 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 14:20:26.808 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 14:20:27.398 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-08-22 14:20:41.154 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 29317 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 14:20:41.157 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 14:20:42.041 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9173fb0a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 14:20:42.233 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 14:20:42.244 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:20:42.251 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 14:20:42.252 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 14:20:42.324 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 14:20:42.324 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1097 ms
+2019-08-22 14:20:42.906 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 14:20:43.142 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 14:20:43.156 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 14:20:43.181 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 14:20:43.285 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 14:20:43.317 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 14:20:43.321 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.629 seconds (JVM running for 3.105)
+2019-08-22 15:20:42.667 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30391 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:20:42.670 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:20:43.553 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e0f31a1d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:20:43.746 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:20:43.756 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:20:43.764 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:20:43.764 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:20:43.835 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:20:43.835 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1096 ms
+2019-08-22 15:20:44.432 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:20:44.667 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:20:44.680 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:20:44.707 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:20:44.809 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:20:44.838 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:20:44.842 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.652 seconds (JVM running for 3.421)
+2019-08-22 15:20:57.780 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:20:57.795 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:20:57.803 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-08-22 15:20:57.865 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:20:57.951 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:22:22.237 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:22:22.245 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:22:25.683 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30419 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:22:25.686 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:22:26.599 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a9f0fef3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:22:26.780 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:22:26.791 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:22:26.798 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:22:26.798 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:22:26.869 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:22:26.869 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1105 ms
+2019-08-22 15:22:27.478 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:22:27.709 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:22:27.722 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:22:27.746 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:22:27.845 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:22:27.873 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:22:27.876 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.689 seconds (JVM running for 3.17)
+2019-08-22 15:22:36.568 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:22:36.579 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:22:36.588 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-08-22 15:22:36.658 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:22:36.754 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:22:36.808 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:23:23.851 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:23:23.859 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:23:27.162 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30435 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:23:27.165 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:23:28.024 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f24cce4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:23:28.208 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:23:28.219 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:23:28.226 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:23:28.226 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:23:28.297 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:23:28.297 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1053 ms
+2019-08-22 15:23:28.905 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:23:29.141 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:23:29.154 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:23:29.180 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:23:29.284 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:23:29.314 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:23:29.318 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.591 seconds (JVM running for 3.117)
+2019-08-22 15:23:48.522 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:23:48.524 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:23:48.530 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 15:23:48.617 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:23:48.706 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:23:48.753 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:25:05.008 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:25:05.015 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:25:08.526 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30469 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:25:08.529 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:25:09.398 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$be99575] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:25:09.583 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:25:09.593 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:25:09.600 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:25:09.600 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:25:09.673 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:25:09.673 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1065 ms
+2019-08-22 15:25:10.301 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:25:10.533 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:25:10.547 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:25:10.571 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:25:10.668 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:25:10.697 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:25:10.701 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.641 seconds (JVM running for 3.135)
+2019-08-22 15:25:14.306 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:25:14.306 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:25:14.313 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 15:25:14.398 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:25:14.494 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:25:14.548 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:25:39.786 [http-nio-8088-exec-2] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:26:17.894 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:26:17.902 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:26:21.198 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30490 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:26:21.200 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:26:22.079 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fb6cd824] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:26:22.257 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:26:22.268 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:26:22.275 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:26:22.275 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:26:22.345 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:26:22.346 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1066 ms
+2019-08-22 15:26:22.931 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:26:23.170 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:26:23.184 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:26:23.211 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:26:23.316 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:26:23.346 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:26:23.349 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.589 seconds (JVM running for 3.089)
+2019-08-22 15:26:37.015 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:26:37.015 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:26:37.021 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 15:26:37.083 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:26:37.174 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:26:37.219 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:26:37.222 [http-nio-8088-exec-1] INFO  UserController - 我的token：null
+2019-08-22 15:27:55.359 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:27:55.367 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:27:58.958 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30518 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:27:58.960 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:27:59.760 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$318f9b92] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:27:59.944 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:27:59.954 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:27:59.961 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:27:59.961 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:28:00.033 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:28:00.033 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1004 ms
+2019-08-22 15:28:00.628 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:28:00.865 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:28:00.879 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:28:00.906 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:28:01.008 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:28:01.037 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:28:01.040 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.58 seconds (JVM running for 3.312)
+2019-08-22 15:28:14.551 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:28:14.557 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:28:14.564 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 15:28:14.626 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:28:14.713 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:28:14.758 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:28:14.760 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：null
+2019-08-22 15:28:14.761 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=0, user_id=null, token=YLn39rv/hUmSJXvlBi7N4g==, createtime=Thu Aug 22 15:28:14 CST 2019, updatetime=Thu Aug 22 15:28:14 CST 2019)
+2019-08-22 15:29:51.289 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:29:51.297 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:29:54.935 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30551 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:29:54.938 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:29:55.788 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$77ed1540] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:29:55.975 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:29:55.985 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:29:55.993 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:29:55.993 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:29:56.063 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:29:56.063 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1045 ms
+2019-08-22 15:29:56.680 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:29:56.917 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:29:56.929 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:29:56.954 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:29:57.051 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:29:57.080 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:29:57.084 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.657 seconds (JVM running for 3.156)
+2019-08-22 15:30:00.501 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:30:00.507 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:30:00.523 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 15:30:00.593 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:30:00.689 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:30:00.743 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(user_id=null, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nick_name=null, avatar=null, sex=女, phone=null, email=null, email_verified=null, true_name=null, id_card=null, birthday=Thu Aug 22 13:00:00 CST 2019, department_id=null, state=0, create_time=null, update_time=null)
+2019-08-22 15:30:00.743 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:30:00.746 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：null
+2019-08-22 15:30:00.747 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=0, user_id=null, token=R3KLOWgmLaPEQ6sSdZKOmA==, createtime=Thu Aug 22 15:30:00 CST 2019, updatetime=Thu Aug 22 15:30:00 CST 2019)
+2019-08-22 15:31:13.523 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:31:13.530 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:31:17.081 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30577 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:31:17.083 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:31:17.974 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$70dfb899] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:31:18.165 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:31:18.175 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:31:18.182 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:31:18.183 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:31:18.252 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:31:18.253 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1099 ms
+2019-08-22 15:31:18.874 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:31:19.119 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:31:19.133 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:31:19.161 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:31:19.272 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:31:19.302 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:31:19.305 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.707 seconds (JVM running for 3.189)
+2019-08-22 15:31:22.495 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:31:22.495 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:31:22.501 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 15:31:22.564 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:31:22.655 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:31:22.701 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(user_id=null, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nick_name=null, avatar=null, sex=女, phone=null, email=null, email_verified=null, true_name=null, id_card=null, birthday=Thu Aug 22 13:00:00 CST 2019, department_id=null, state=0, create_time=null, update_time=null)
+2019-08-22 15:31:22.702 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:31:22.704 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：null
+2019-08-22 15:31:22.705 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=0, user_id=null, token=HU59+Lf+ZzuhbPfHwE36aA==, createtime=Thu Aug 22 15:31:22 CST 2019, updatetime=Thu Aug 22 15:31:22 CST 2019)
+2019-08-22 15:31:56.979 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:31:56.987 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:31:58.830 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30592 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:31:58.832 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:31:59.736 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5e658c26] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:31:59.919 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:31:59.929 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:31:59.936 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:31:59.936 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:32:00.006 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:32:00.006 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1102 ms
+2019-08-22 15:32:00.615 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:32:00.843 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:32:00.856 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:32:00.880 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:32:00.976 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:32:01.006 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:32:01.009 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.797 seconds (JVM running for 3.255)
+2019-08-22 15:32:11.935 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:32:11.947 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:32:11.955 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 15:32:12.027 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:32:12.125 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:32:12.183 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(user_id=null, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nick_name=null, avatar=null, sex=女, phone=null, email=null, email_verified=null, true_name=null, id_card=null, birthday=Thu Aug 22 13:00:00 CST 2019, department_id=null, state=0, create_time=null, update_time=null)
+2019-08-22 15:32:12.183 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:32:12.186 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：null
+2019-08-22 15:32:12.186 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=0, user_id=null, token=b8Hvc6Y0Y2B957ElPy6e/w==, createtime=Thu Aug 22 15:32:12 CST 2019, updatetime=Thu Aug 22 15:32:12 CST 2019)
+2019-08-22 15:36:07.273 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:36:07.282 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:40:06.013 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30790 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:40:06.015 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:40:06.857 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d456ba2b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:40:07.047 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:40:07.058 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:40:07.066 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:40:07.066 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:40:07.137 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:40:07.138 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1050 ms
+2019-08-22 15:40:07.746 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:40:07.990 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:40:08.004 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:40:08.029 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:40:08.133 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:40:08.163 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:40:08.167 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.674 seconds (JVM running for 3.365)
+2019-08-22 15:40:11.841 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:40:11.842 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:40:11.848 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 15:40:11.911 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:40:11.998 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:40:12.046 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(user_id=null, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nick_name=null, avatar=null, sex=女, phone=null, email=null, email_verified=null, true_name=null, id_card=null, birthday=Thu Aug 22 13:00:00 CST 2019, department_id=null, state=0, create_time=null, update_time=null)
+2019-08-22 15:40:12.047 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:40:12.049 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：null
+2019-08-22 15:40:12.050 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=0, user_id=null, token=7OInM2H/H0x+rrHXjjLYlQ==, createtime=Thu Aug 22 15:40:12 CST 2019, updatetime=Thu Aug 22 15:40:12 CST 2019)
+2019-08-22 15:47:51.106 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:47:51.113 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:47:54.645 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 30904 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:47:54.648 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:47:55.588 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d506341e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:47:55.775 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:47:55.785 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:47:55.793 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:47:55.793 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:47:55.863 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:47:55.863 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1138 ms
+2019-08-22 15:47:56.481 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:47:56.723 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:47:56.736 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:47:56.761 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:47:56.865 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:47:56.904 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:47:56.907 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.733 seconds (JVM running for 3.198)
+2019-08-22 15:47:59.767 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:47:59.768 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:47:59.773 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-08-22 15:47:59.847 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:47:59.935 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:47:59.981 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(user_id=null, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nick_name=null, avatar=null, sex=女, phone=null, email=null, email_verified=null, true_name=null, id_card=null, birthday=Thu Aug 22 13:00:00 CST 2019, department_id=null, state=0, create_time=null, update_time=null)
+2019-08-22 15:47:59.982 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:47:59.985 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：null
+2019-08-22 15:47:59.985 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=0, user_id=null, token=Ldky9bk1VoZVPEnPlrefKQ==, createtime=Thu Aug 22 15:47:59 CST 2019, updatetime=Thu Aug 22 15:47:59 CST 2019)
+2019-08-22 15:53:26.557 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:53:26.565 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:53:52.012 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 31004 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:53:52.042 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:53:52.875 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3066d223] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:53:53.056 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:53:53.067 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:53:53.074 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:53:53.074 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:53:53.144 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:53:53.144 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1061 ms
+2019-08-22 15:53:53.725 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:53:53.952 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:53:53.964 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:53:53.991 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:53:54.092 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:53:54.121 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:53:54.124 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.625 seconds (JVM running for 3.368)
+2019-08-22 15:54:01.486 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:54:01.488 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:54:01.494 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-08-22 15:54:01.557 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:54:01.644 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:54:17.563 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:54:17.571 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:54:21.583 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 31015 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:54:21.586 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:54:22.566 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e913b03e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:54:22.758 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:54:22.768 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:54:22.776 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:54:22.777 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:54:22.849 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:54:22.849 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1175 ms
+2019-08-22 15:54:23.458 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:54:23.702 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:54:23.716 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:54:23.741 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:54:23.846 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:54:23.884 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:54:23.888 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.786 seconds (JVM running for 3.274)
+2019-08-22 15:54:25.966 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:54:25.967 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:54:25.989 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 15:54:26.051 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:54:26.137 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:55:01.601 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 15:55:01.609 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 15:55:05.068 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 31030 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 15:55:05.069 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 15:55:06.048 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$40a28036] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 15:55:06.257 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 15:55:06.268 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:55:06.275 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 15:55:06.276 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 15:55:06.346 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 15:55:06.346 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1201 ms
+2019-08-22 15:55:06.965 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 15:55:07.203 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 15:55:07.216 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 15:55:07.241 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 15:55:07.343 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 15:55:07.373 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 15:55:07.376 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.79 seconds (JVM running for 3.303)
+2019-08-22 15:55:20.405 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 15:55:20.405 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 15:55:20.410 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2019-08-22 15:55:20.482 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 15:55:20.585 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 15:55:57.418 [http-nio-8088-exec-2] INFO  UserController - 1、user：User(userid=7, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nickname=admin1, avatar=null, sex=女, phone=null, email=null, emailverified=0, truename=null, idcard=null, birthday=Thu Aug 22 13:00:00 CST 2019, departmentid=null, state=0, createtime=Fri Aug 23 03:19:31 CST 2019, updatetime=Fri Aug 23 03:19:31 CST 2019)
+2019-08-22 15:55:57.419 [http-nio-8088-exec-2] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 15:55:57.422 [http-nio-8088-exec-2] INFO  UserController - 1、我的token：null
+2019-08-22 15:55:57.423 [http-nio-8088-exec-2] INFO  UserController - 2、我的token：Token(id=0, userid=7, token=dXEVZ6TcT7zUvMR3ooegjA==, createtime=Thu Aug 22 15:55:57 CST 2019, updatetime=Thu Aug 22 15:55:57 CST 2019)
+2019-08-22 16:03:58.505 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 16:03:58.512 [Thread-8] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 16:04:02.229 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 31169 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 16:04:02.232 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 16:04:03.110 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4349d93d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 16:04:03.298 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 16:04:03.309 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 16:04:03.316 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 16:04:03.316 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 16:04:03.389 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 16:04:03.389 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1076 ms
+2019-08-22 16:04:04.016 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 16:04:04.260 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 16:04:04.273 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 16:04:04.297 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 16:04:04.397 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 16:04:04.427 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 16:04:04.430 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.745 seconds (JVM running for 3.273)
+2019-08-22 16:04:11.946 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 16:04:11.951 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 16:04:11.959 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-08-22 16:04:12.030 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 16:04:12.129 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 16:04:12.186 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(userid=7, username=admin1, nickname=admin1, avatar=null, sex=女, phone=null, email=null, emailverified=0, truename=null, idcard=null, birthday=Thu Aug 22 13:00:00 CST 2019, departmentid=null, state=0)
+2019-08-22 16:04:12.187 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 16:04:12.191 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：Token(id=1, userid=7, token=dXEVZ6TcT7zUvMR3ooegjA==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 13:00:00 CST 2019)
+2019-08-22 16:04:12.191 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=1, userid=7, token=RYE5dIFDXAQQ507QGL4Yag==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 16:04:12 CST 2019)
+2019-08-22 16:04:14.859 [http-nio-8088-exec-2] INFO  UserController - 1、user：User(userid=7, username=admin1, nickname=admin1, avatar=null, sex=女, phone=null, email=null, emailverified=0, truename=null, idcard=null, birthday=Thu Aug 22 13:00:00 CST 2019, departmentid=null, state=0)
+2019-08-22 16:04:14.859 [http-nio-8088-exec-2] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 16:04:14.862 [http-nio-8088-exec-2] INFO  UserController - 1、我的token：Token(id=1, userid=7, token=RYE5dIFDXAQQ507QGL4Yag==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 13:00:00 CST 2019)
+2019-08-22 16:04:14.862 [http-nio-8088-exec-2] INFO  UserController - 2、我的token：Token(id=1, userid=7, token=dIcbotA+c0NKXDT+5bU58g==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 16:04:14 CST 2019)
+2019-08-22 16:07:15.138 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 16:07:15.146 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 16:07:18.683 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 31217 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 16:07:18.685 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 16:07:19.622 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$60530746] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 16:07:19.809 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 16:07:19.819 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 16:07:19.826 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 16:07:19.826 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 16:07:19.897 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 16:07:19.897 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1135 ms
+2019-08-22 16:07:20.510 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 16:07:20.755 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 16:07:20.768 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 16:07:20.793 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 16:07:20.899 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 16:07:20.929 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 16:07:20.933 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.721 seconds (JVM running for 3.235)
+2019-08-22 16:07:28.246 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 16:07:28.246 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 16:07:28.252 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 16:07:28.315 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 16:07:28.418 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 16:07:28.468 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(userid=7, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nickname=admin1, avatar=null, sex=女, phone=null, email=null, emailverified=0, truename=null, idcard=null, birthday=Thu Aug 22 13:00:00 CST 2019, departmentid=null, state=0, createtime=Fri Aug 23 03:19:31 CST 2019, updatetime=Fri Aug 23 03:19:31 CST 2019)
+2019-08-22 16:07:28.468 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 16:07:28.472 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：Token(id=1, userid=7, token=dIcbotA+c0NKXDT+5bU58g==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 13:00:00 CST 2019)
+2019-08-22 16:07:28.472 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=1, userid=7, token=1jnNgi7mf2d3XcMocnX5sw==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 16:07:28 CST 2019)
+2019-08-22 16:14:09.215 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-08-22 16:14:09.222 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-08-22 16:21:31.247 [main] INFO  com.byblog.ByBlogApplication - Starting ByBlogApplication on MacBook-Pro.local with PID 31448 (/Users/wupeitao/Desktop/javaworkspace/by-blog/target/classes started by wupeitao in /Users/wupeitao/Desktop/javaworkspace/by-blog)
+2019-08-22 16:21:31.250 [main] INFO  com.byblog.ByBlogApplication - The following profiles are active: dev
+2019-08-22 16:21:32.135 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7543771a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-08-22 16:21:32.325 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8088 (http)
+2019-08-22 16:21:32.337 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8088"]
+2019-08-22 16:21:32.344 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-08-22 16:21:32.345 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-08-22 16:21:32.419 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-08-22 16:21:32.419 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1093 ms
+2019-08-22 16:21:33.032 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-08-22 16:21:33.273 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2019-08-22 16:21:33.286 [main] INFO  s.d.s.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2019-08-22 16:21:33.314 [main] INFO  s.d.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2019-08-22 16:21:33.419 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8088"]
+2019-08-22 16:21:33.449 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8088 (http) with context path ''
+2019-08-22 16:21:33.452 [main] INFO  com.byblog.ByBlogApplication - Started ByBlogApplication in 2.718 seconds (JVM running for 3.434)
+2019-08-22 16:21:38.526 [http-nio-8088-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-08-22 16:21:38.532 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-08-22 16:21:38.538 [http-nio-8088-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-08-22 16:21:38.600 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-08-22 16:21:38.691 [http-nio-8088-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-08-22 16:21:38.741 [http-nio-8088-exec-1] INFO  UserController - 1、user：User(userid=7, username=admin1, password=913f17901bdd781d54d84c88a6a4d79d, nickname=admin1, avatar=, sex=女, phone=, email=, emailverified=0, truename=, idcard=, birthday=Thu Aug 22 13:00:00 CST 2019, departmentid=0, state=0, createtime=Fri Aug 23 03:19:31 CST 2019, updatetime=Fri Aug 23 03:19:31 CST 2019)
+2019-08-22 16:21:38.742 [http-nio-8088-exec-1] INFO  UserController - 密码：913f17901bdd781d54d84c88a6a4d79d/---------------------/913f17901bdd781d54d84c88a6a4d79d
+2019-08-22 16:21:38.745 [http-nio-8088-exec-1] INFO  UserController - 1、我的token：Token(id=1, userid=7, token=1jnNgi7mf2d3XcMocnX5sw==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 13:00:00 CST 2019)
+2019-08-22 16:21:38.745 [http-nio-8088-exec-1] INFO  UserController - 2、我的token：Token(id=1, userid=7, token=WomaUMn1i4jN2Q0VOUkO0A==, createtime=Thu Aug 22 13:00:00 CST 2019, updatetime=Thu Aug 22 16:21:38 CST 2019)

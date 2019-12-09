@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.iutil:api-result:1.0.0.BUILD">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/iutil/api-result/1.0.0.BUILD/api-result-1.0.0.BUILD.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/iutil/api-result/1.0.0.BUILD/api-result-1.0.0.BUILD-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/iutil/api-result/1.0.0.BUILD/api-result-1.0.0.BUILD-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
